@@ -1,0 +1,21 @@
+Buatlah sebuah program untuk menerima input berupa nama, alamat, dan hobi kalian lalu menampilkannya kembali ke layar.
+
+Format Input
+Baris pertama berisi nama
+Baris kedua berisi alamat
+Baris ketiga berisi hobi
+
+Format output
+Baris pertama menampilkan nama
+Baris kedua menampilkan alamat
+Baris ketiga menampilkan hobi
+
+Contoh Input
+Dwi Kurniawan
+Jalan Kartini no 53
+Memancing
+
+Contoh Output
+Nama    : Dwi Kurniawan
+Alamat  : Jalan Kartini no 53
+Hobi       : Memancing  
