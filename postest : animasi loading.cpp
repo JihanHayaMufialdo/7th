@@ -85,11 +85,11 @@ int main (){
 		
 		clear();
 		
-		mvprintw(13,40,"NAMA\t:\tJ H M");
+		mvprintw(13,40,"NAMA\t:\tJIHAN HAYA MUFIALDO");
 		refresh();
 		Sleep(2000);
 		
-		mvprintw(15,40,"NPM\t:\t1095");
+		mvprintw(15,40,"NPM\t:\t2117051095");
 		refresh();
 		Sleep(4000);
 		
