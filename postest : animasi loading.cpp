@@ -2,7 +2,6 @@
 #include <windows.h>
 
 int ulang(){	
-
 	for (int i=0;i<=4;i++){
 			printw("+ ");
 			refresh();
