@@ -4,4 +4,12 @@ using namespace std;
 
 int main(){
 	
+	
+	initscr();
+	
+	
+	
+	getch();
+	endwin();
+	
 }
