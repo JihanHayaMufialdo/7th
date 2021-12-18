@@ -4,7 +4,6 @@ using namespace std;
 
 int main(){
 	
-	
 	initscr();
 	
 	for (int i=0;i<=3;i++){
@@ -23,9 +22,9 @@ int main(){
 		refresh();
 		Sleep(300);
 		
+		clear();
 	}
 	
 	getch();
 	endwin();
-	
 }
