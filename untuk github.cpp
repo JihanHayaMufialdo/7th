@@ -15,6 +15,12 @@ int main(){
 		refresh();
 		Sleep(300);
 		
+		mvprintw(15,43,".");
+		refresh();
+		Sleep(300);
+			
+		
+		
 	}
 	
 	getch();
